@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "J+fDZ12HVE5/fmpMazGQTCJhh9uoF8aJhGHTTqOgWPc=",
+  "Source": "Asp.netCoreApi",
+  "BasePath": "_content/Asp.netCoreApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
